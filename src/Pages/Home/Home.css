@@ -1,0 +1,48 @@
+.imgdiv {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  background-color: rgb(240, 242, 245);
+  border-bottom: 2px solid white;
+}
+.logout-btn {
+  width: 290px;
+  cursor: pointer;
+  outline: 0;
+  color: #fff;
+  background-color: rgb(24, 119, 242);
+  border-color: #0d6efd;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: center;
+  border: 1px solid transparent;
+  padding: 6px 12px;
+  font-size: 16px;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.logout-btn:hover {
+  color: #fff;
+  background-color: #0b5ed7;
+  border-color: #0a58ca;
+}
+.contentdiv {
+  background-color: rgb(240, 242, 245);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+}
+.hometable {
+  height: 200px;
+  width: 400px;
+  background-color: white;
+  margin: 10px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0px 1px 2px 0.5px rgb(20, 22, 25);
+}
