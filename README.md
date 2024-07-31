@@ -1,1 +1,1 @@
-Need to implement news feed UI
+Need to improve the UI
